@@ -4,6 +4,8 @@
 <img src="https://github.com/john-vastola/RL-at-Harvard-tutorial-2022/blob/main/images/RL_pacman_schematic.png?raw=true" alt="drawing" width="600"/>
 </p>
 
+By [Lucy Lai](https://github.com/lucylai96) and [John Vastola](https://github.com/john-vastola)
+
 
 **Welcome to the reinforcement learning tutorial!** The goal of this tutorial is to present a brief introduction to
 
@@ -11,7 +13,9 @@
 
 (ii) how those concepts might relate to the brain. 
 
-This companion notebook contains demos which complement the main presentation, plus summaries of some of the essential points. It is self-contained, and only uses basic Python packages.
+The powerpoint presentation, originally given on August 29th, 2022 as part of the RL at Harvard workshop, is included in PDF form. 
+
+The companion notebook contains demos which complement the main presentation, plus summaries of some of the essential points. It is self-contained, and only uses basic Python packages.
 
 The structure of the notebook is as follows:
 
